@@ -37,9 +37,7 @@
   "dependencies": {
     "@coreui/icons": "0.3.0",
     "classnames": "^2.2.6",
-    "codecov.io": "^0.1.6",
     "core-js": "^2.6.9",
-    "coveralls": "^3.0.6",
     "prop-types": "^15.7.2",
     "react-onclickout": "^2.0.8",
     "react-perfect-scrollbar": "^1.5.3",
@@ -56,7 +54,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-react": "^7.15.1",
-    "nwb": "^0.23.0",
+    "nwb": "0.23.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-router-dom": "^5.1.2",
